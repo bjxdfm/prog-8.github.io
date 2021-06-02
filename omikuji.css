@@ -14,7 +14,7 @@ body{
     "Hiragino Sans",
     Meiryo,
     sans-serif;
-    background-image:sakura_meguro.jpg;
+    background-image:url(sakura_meguro.jpg);
     background-size: cover;
     overflow: hidden;
 }
