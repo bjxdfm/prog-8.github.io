@@ -15,7 +15,7 @@ body{
     Meiryo,
     sans-serif;
     /* background-color: rgba(255,255,255,0.6); */
-    background-image:url(../img/sakura_meguro.jpg) ;
+    background-image:url(sakura_meguro.jpg) ;
     /*background-repeat: no-repeat;*/
     background-size: cover;
     overflow: hidden;
