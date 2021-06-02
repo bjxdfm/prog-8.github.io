@@ -83,7 +83,6 @@ footer>p{
         background-size: auto 700px;
     };
 }
-/*オープニングシャッター*/
 .shutter{
     position:fixed;
     top: 0;
@@ -96,7 +95,6 @@ footer>p{
     background-color:#1e1e1e;
     animation: byeShutter 2.5s forwards;
 }
-/* フェイクの読み込み中のコーディングバー */
 .shutter::before{
     content:"";
     position:absolute;
@@ -147,5 +145,4 @@ footer>p{
     font-size: 1.5em;
     background: rgb(54, 26, 212);
     cursor: pointer;
-    /* カーソルをポインターの形にする */
 }
